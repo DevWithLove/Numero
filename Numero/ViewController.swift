@@ -27,6 +27,7 @@
 /// THE SOFTWARE.
 
 import UIKit
+import SnapKit
 
 class ViewController: UIViewController {
 
